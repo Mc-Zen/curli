@@ -9,7 +9,7 @@
 
 
 ```typ
-#import "@curli/lilaq:0.1.0": simsalabim
+#import "@preview/curli:0.1.0": simsalabim
 
 #show: simsalabim
 
